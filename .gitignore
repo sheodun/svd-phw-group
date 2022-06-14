@@ -1,2 +1,5 @@
 
 src/venv/Lib/site-packages/__pycache__/cycler.cpython-38.pyc
+venv/
+*.xlsx
+*svd-project.sublime-workspace
